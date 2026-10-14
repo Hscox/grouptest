@@ -1,3 +1,5 @@
+// hihshhshshs
+
 <x-layouts::app :title="__('TuneEcho - Music & Album Reviews')">
     <div class="space-y-12 pb-16">
         <!-- Hero Section -->
